@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ex1_ylab/static/css/main.bdac2687.css",
+    "main.js": "/ex1_ylab/static/js/main.864e28c3.js",
+    "index.html": "/ex1_ylab/index.html",
+    "main.bdac2687.css.map": "/ex1_ylab/static/css/main.bdac2687.css.map",
+    "main.864e28c3.js.map": "/ex1_ylab/static/js/main.864e28c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdac2687.css",
+    "static/js/main.864e28c3.js"
+  ]
+}
